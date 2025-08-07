@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: LinZhihao-723
+          user: haiqi96
           template: classic
           base: header, activity, community, repositories, metadata
           config_animations: yes
